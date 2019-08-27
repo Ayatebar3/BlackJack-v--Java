@@ -338,7 +338,7 @@ public class BlackJack {
                         break; 
                 }
                 
-                System.out.println("We went through one round");
+                System.out.println("");
                 player.endRound(0);
                 dealer.endRound(0);
                 
